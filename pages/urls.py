@@ -1,5 +1,6 @@
 from django.urls import path
 
+# I think this . means current folder
 from . import views
 
 urlpatterns = [
