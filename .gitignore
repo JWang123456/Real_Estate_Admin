@@ -13,6 +13,8 @@ db.sqlite3
 /media
 venv
 /static
+
+# this one should not be ignored, otherwise manage.py collectstatic won't work
 *static
 
 
