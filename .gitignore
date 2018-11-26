@@ -15,7 +15,7 @@ venv
 /static
 
 # this one should not be ignored, otherwise manage.py collectstatic won't work
-*static
+# *static
 
 
 
